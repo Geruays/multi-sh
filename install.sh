@@ -12,7 +12,6 @@ cd /bin
 chmod +x multish
 
 cd $HOME
-
+clear
 echo Done Now Run With multish
 
-clear
